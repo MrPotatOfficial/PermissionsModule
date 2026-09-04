@@ -4,7 +4,7 @@ local GroupService = game:GetService("GroupService")
 local Permissions = {}
 
 --[[
-	CONFIGURE YOUR DEPARTMENTS HERE
+	CONFIGURE YOUR GROUPS HERE
 
 	Add one entry per Roblox group you want this module to check against.
 	Each group needs:
