@@ -1,7 +1,5 @@
 # Installation Guide
 
-A Roblox group-rank permissions system. Checks a player's rank across one more Roblox groups and exposes clean helper functions for gating access to features, both on the server and (via a `RemoteFunction`) from the client.
-
 ## Requirements
 
 - A Roblox place with access to Studio.
